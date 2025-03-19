@@ -31,8 +31,6 @@ The library has approximately **374,747** books, but due to server constraints, 
 
 ## File Structure
 ```
-├── .venv/  # Virtual environment (optional)
-├── __pycache__/  # Compiled Python files
 ├── library_books.xlsx  # Output Excel file with scraped book data
 ├── main.py  # Main scraping script
 ├── README.md  # Project documentation
